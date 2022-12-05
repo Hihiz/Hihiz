@@ -1,1 +1,1 @@
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Hihiz)](https://github.com/Hihiz?tab=repositories)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hihiz&theme=solarized_dark)
